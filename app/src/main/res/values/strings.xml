@@ -3,4 +3,11 @@
     <string name="select_shape">Select your shape</string>
     <string name="generate">Generate Shape</string>
     <string name="art_board">Your Artboard</string>
+    <string name="shapes">Shapes</string>
+    <string name="colors">Colors</string>
+    <string name="enter_radius">Enter radius</string>
+    <string name="enter_height">Enter height</string>
+    <string name="enter_base">Enter base</string>
+    <string name="enter_breadth">Enter breadth</string>
+    <string name="enter_length">Enter length</string>
 </resources>
